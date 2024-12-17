@@ -3,5 +3,5 @@
 2. Extract the zip file in your local machine.
 3. Open the project in your preferred IDE (VSCode, Eclipse, IntelliJ, etc.)
 4. Make sure you have Python 3.x.x or higher installed in your system.
-5. Run the `main.py` file as a Java Application.
+5. Run the `main.py` file in your terminal.
 6. The game will start and you can play the game by following the instructions displayed on the screen.
